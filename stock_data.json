@@ -1,0 +1,200 @@
+[
+  {
+    "symbol": "GOOGL",
+    "open": 177.85,
+    "high": 177.95,
+    "low": 172.81,
+    "close": 174.36,
+    "prev_close": 176.79,
+    "change": -2.43,
+    "percent_change": -1.37,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "IBM",
+    "open": 293.1,
+    "high": 295.61,
+    "low": 289.49,
+    "close": 290.42,
+    "prev_close": 292.47,
+    "change": -2.05,
+    "percent_change": -0.7,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "MSFT",
+    "open": 497.24,
+    "high": 498.2,
+    "low": 494.11,
+    "close": 496.62,
+    "prev_close": 497.72,
+    "change": -1.1,
+    "percent_change": -0.22,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "AAPL",
+    "open": 210.1,
+    "high": 211.43,
+    "low": 208.45,
+    "close": 210.01,
+    "prev_close": 209.95,
+    "change": 0.06,
+    "percent_change": 0.03,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "AMZN",
+    "open": 223.915,
+    "high": 224,
+    "low": 218.43,
+    "close": 219.36,
+    "prev_close": 223.47,
+    "change": -4.11,
+    "percent_change": -1.84,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "TSLA",
+    "open": 297,
+    "high": 304.0499,
+    "low": 294.35,
+    "close": 297.81,
+    "prev_close": 293.94,
+    "change": 3.87,
+    "percent_change": 1.32,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "NVDA",
+    "open": 159.33,
+    "high": 160.22,
+    "low": 158.39,
+    "close": 160,
+    "prev_close": 158.24,
+    "change": 1.76,
+    "percent_change": 1.11,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "META",
+    "open": 721.57,
+    "high": 722.9099,
+    "low": 714.81,
+    "close": 720.67,
+    "prev_close": 718.35,
+    "change": 2.32,
+    "percent_change": 0.32,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "NFLX",
+    "open": 1290.9,
+    "high": 1293.25,
+    "low": 1260,
+    "close": 1275.31,
+    "prev_close": 1289.62,
+    "change": -14.31,
+    "percent_change": -1.11,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "INTC",
+    "open": 22.18,
+    "high": 23.785,
+    "low": 22.1323,
+    "close": 23.59,
+    "prev_close": 22,
+    "change": 1.59,
+    "percent_change": 7.23,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "SBUX",
+    "open": 94.06,
+    "high": 95.75,
+    "low": 93.78,
+    "close": 94.94,
+    "prev_close": 93.64,
+    "change": 1.3,
+    "percent_change": 1.39,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "KO",
+    "open": 70.68,
+    "high": 70.68,
+    "low": 69.88,
+    "close": 70.24,
+    "prev_close": 71.01,
+    "change": -0.77,
+    "percent_change": -1.08,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "PEP",
+    "open": 133.41,
+    "high": 135.6718,
+    "low": 133.28,
+    "close": 135.04,
+    "prev_close": 134.45,
+    "change": 0.59,
+    "percent_change": 0.44,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "NKE",
+    "open": 76.13,
+    "high": 76.3,
+    "low": 73.65,
+    "close": 73.92,
+    "prev_close": 76.53,
+    "change": -2.61,
+    "percent_change": -3.41,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "DIS",
+    "open": 123.215,
+    "high": 123.711,
+    "low": 121.82,
+    "close": 121.82,
+    "prev_close": 123.16,
+    "change": -1.34,
+    "percent_change": -1.09,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "V",
+    "open": 356.68,
+    "high": 358.275,
+    "low": 353.25,
+    "close": 354.55,
+    "prev_close": 356.64,
+    "change": -2.09,
+    "percent_change": -0.59,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "JPM",
+    "open": 289.275,
+    "high": 289.7,
+    "low": 280.31,
+    "close": 282.78,
+    "prev_close": 291.97,
+    "change": -9.19,
+    "percent_change": -3.15,
+    "timestamp": "07:29:59 AM"
+  },
+  {
+    "symbol": "GS",
+    "open": 710.72,
+    "high": 711.185,
+    "low": 693.77,
+    "close": 697.28,
+    "prev_close": 710.93,
+    "change": -13.65,
+    "percent_change": -1.92,
+    "timestamp": "07:29:59 AM"
+  }
+]
